@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Lequral
-- 👀 Hello
+- 👀 I'm a beginner in all of this but i already learned basic python, js, html, css.
+- 🔥 I'm currently working on a private discord bot.
