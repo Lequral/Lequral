@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Lequral
-- 👀 I'm a beginner in all of this but i already learned basic python, js, html, css.
+- 👀 I already learned basic python, js, html, css.
 - 🔥 I'm currently working on multiple websites.
