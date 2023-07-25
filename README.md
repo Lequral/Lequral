@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Lequral
 - 👀 I already learned some python, js, html, css.
-- 🔥 I'm currently working on multiple websites.
+- 🔥 I'm currently working on svelte.
